@@ -9,12 +9,14 @@
 ## Project Description
 This project demonstrates my knowledge of game design and development using Unity in C#. 
 The game, "Petal Guardian," involves strategic placement and interaction with 2D elements within an interactive grid environment.
+The player must defeat all enemies in each wave to win. The player loses when an enemies reaches the left-most side of the grid.
    
 ## Game Features
 - Plant/Flower Placement: Allows the user to place plant or flower 2D elements on the interactive grid.
 - Enemy Spawning: Randomly spawns enemies that the player must defend against.
 - Shop Interaction: Users can interact with the shop UI component to purchase items or upgrades.
 - Plant/Flower Descriptions: Provides a brief summary of the abilities and characteristics of each plant or flower.
+- Wave System: Timed waves are implemented in which enemies will spawn.
 
 ## Files 
 1. Assets
